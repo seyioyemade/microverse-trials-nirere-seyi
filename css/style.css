@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    padding: 30px;
+    background-color: #BE3145;
+    justify-content: flex-end;
+}
+li{
+    display: inline;
+    color: black;
+}
